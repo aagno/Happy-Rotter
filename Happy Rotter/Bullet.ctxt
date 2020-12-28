@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bullet\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=double\ getRandomNumber()
+comment1.text=\r\n\ \ getRandomNumber\ -\ returns\ a\ random\ number\ between\ .0\ -\ .99\ to\ determine\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ what\ bullet\ image\ is\ used\r\n\ \ Written\ by\ Arianne\ Agno\r\n
+comment2.params=
+comment2.target=void\ goShoot()
+comment2.text=\r\n\ \ goShoot\ -\ how\ the\ bullets\ will\ act\ when\ set\ in\ the\ world.\ This\ method\ is\ called\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ whenever\ the\ bullet\ is\ set\ into\ the\ world.\r\n\ \ Written\ by\ Arianne\ Agno\r\n
+numComments=3
